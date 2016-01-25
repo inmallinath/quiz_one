@@ -28,3 +28,7 @@
 # Question 6: A helper method module in Ruby to titleize a given string
 
 #### The solution is in the helper_titleize.rb file
+
+# Question 7: A Ruby Module with two subclasses of which one is the parent and the other sub-class
+
+#### The solution is in the blog_articles_snippets.rb file
