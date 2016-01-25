@@ -9,3 +9,7 @@
 # Question 2: Javascript Object - Properties count
 
 #### The solution is in the major_cities.js file
+
+# Question 3: isPrime using Javascript
+
+#### The solution is in the isPrime.js file
