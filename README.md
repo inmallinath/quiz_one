@@ -14,6 +14,12 @@
 
 #### The solution is in the isPrime.js file
 
-# Question 4: Even numbers upto a given number
+# Question 4: Even numbers upto a given number in Javascript
 
 #### The solution is in the evenNumbers.js file
+
+# Question 5: Even numbers upto a given number in Ruby
+
+### Methods adopted are loop and recursion
+
+># The Benchmark analysis yielded better result for the recursion and was found to be faster than the loop methods used to get even numbers 1000 times for numbers 0 to 30
