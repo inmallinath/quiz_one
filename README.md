@@ -13,3 +13,7 @@
 # Question 3: isPrime using Javascript
 
 #### The solution is in the isPrime.js file
+
+# Question 4: Even numbers upto a given number
+
+#### The solution is in the evenNumbers.js file
