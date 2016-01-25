@@ -22,4 +22,9 @@
 
 ### Methods adopted are loop and recursion
 
+#### The solution is in the even_numbers_loop_recursion.rb file
 ># The Benchmark analysis yielded better result for the recursion and was found to be faster than the loop methods used to get even numbers 1000 times for numbers 0 to 30
+
+# Question 6: A helper method module in Ruby to titleize a given string
+
+#### The solution is in the helper_titleize.rb file
