@@ -36,3 +36,12 @@
 # Question 8: Book and Chapters in Ruby
 
 #### The completed solution is in the book_chapters.rb file
+
+# Question 9: Difference between include and extend in
+
+##### Include in Ruby
+> Any class that includes a certain module can use methods defined in the module. In essence we need not prepend the constants and methods with the module name. We can simply access PI without using Math::PI.
+##### Extend in Ruby
+> Whereas include mixes a module's methods in at the instance level, the extend keyword mixes a module's methods at the class level. This means that class itself can use the methods, as opposed to instances of the class.
+
+#### The completed solution is in the include_extend.rb file
