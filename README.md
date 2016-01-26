@@ -32,3 +32,7 @@
 # Question 7: A Ruby Module with two subclasses of which one is the parent and the other sub-class
 
 #### The solution is in the blog_articles_snippets.rb file
+
+# Question 8: Book and Chapters in Ruby
+
+#### The completed solution is in the book_chapters.rb file
